@@ -21,7 +21,7 @@ GUID = '1a5ab8f9-be37-4f97-98b4-86ce9c461e9f'
 Author = 'Mickael Roy'
 
 # Company or vendor of this module
-CompanyName = 'BNP CIB'
+# CompanyName = ''
 
 # Copyright statement for this module
 #Copyright = '2015'
